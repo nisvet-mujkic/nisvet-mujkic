@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a software engineer specialized in .NET
 --------------------------------------------
 
-I started gaining interest in programming in high school and that has lead me to the beautiful city of Mostar where I started my journey to become a software engineer back in 2015. I hold a bachelor's degree in Information Technologies and I've been working professionally for more than five years.
+I started gaining interest in programming in high school and that has led me to the beautiful city of Mostar where I started my journey to become a software engineer back in 2015. I hold a bachelor's degree in Information Technologies and I've been working professionally for more than five years.
 
 My goal is to create a more meaningful career for myself by developing my engineering skills and using them to make a positive impact on the community I live in.
 
