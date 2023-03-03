@@ -14,7 +14,6 @@ Besides programming, I find great interest in reading psychology related books, 
 *   ✉️  You can contact me at [nisvet.mujkic@outlook.com](mailto:nisvet.mujkic@outlook.com)
 *   🧠  I'm learning Rust, Docker and Kubernetes
 *   ⚡  I like solving Sudoku puzzles and I am the person that tracks everything - a habit-freak, you might say
-*   🤝  I'm open to work and actively looking for a new opportunity
 
 <a href="https://www.github.com/nisvet-mujkic" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/nisvet-mujkic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
