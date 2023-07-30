@@ -12,7 +12,6 @@ Besides programming, I find great interest in reading psychology related books, 
 
 *   🌍  I'm based in Sarajevo, Bosnia and Herzegovina
 *   ✉️  You can contact me at [nisvet.mujkic@outlook.com](mailto:nisvet.mujkic@outlook.com)
-*   🧠  I'm learning Rust, Docker and Kubernetes
 *   ⚡  I like solving Sudoku puzzles and I am the person that tracks everything - a habit-freak, you might say
 
 <a href="https://www.github.com/nisvet-mujkic" target="_blank" rel="noreferrer"><img
